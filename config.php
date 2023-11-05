@@ -4,7 +4,7 @@
 define('DB_HOST','database-1.cv4jtfbxchp7.us-east-1.rds.amazonaws.com');
 define('DB_USER','admin');
 define('DB_PASS','admin123');
-define('DB_NAME','database');
+define('DB_NAME','databse');
 // Establish database connection.
 
 define('CURRENCY','Rs');
